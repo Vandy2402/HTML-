@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        ul,ol
+        {
+            font-family: Calibri;
+            background-color: lightgray;
+        }
+        li
+        {
+            background-color: gray;
+            padding:5px;
+            margin:5px;
+        }
+
+
+    </style>
+
+</head>
+<body>
+    <ul>
+        <li>Angular Js</li>
+        <li>React js</li>
+        <li>Node js</li>
+        <li>Express js</li>
+    </ul>
+
+    <ol>
+        <li>Angular Js</li>
+        <li>React js</li>
+        <li>Node js</li>
+        <li>Express js</li>
+    </ol>
+
+
+</body>
+</html>
