@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+        <a href="http://www.google.co.in" target="_blank">click here</a>
+        <br>
+        <a href="table2.html">tables Page</a>
+        <br>
+        <a href="http://www.zomato.com" target="_blank">
+            <img src="img/pexels-elletakesphotos-1660030.jpg" width="200" height="200">
+        </a>
+</body>
+</html>
