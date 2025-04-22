@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        img
+        {
+            border-radius:10px;
+            box-shadow:0 0 10px black;
+            padding:1px;
+            margin:10px;
+        }
+    </style>
+</head>
+<body>
+    <img src="img/pexels-valeriya-842571.jpg" width="400" height="250" alt="food image1" title="yummy food image1">
+    <img src="img/pexels-ash-craig-122861-376464.jpg" width="400" height="250" alt="food image2" title="yummy food image2">
+    <img src="img/pexels-elletakesphotos-1660030.jpg" width="400" height="250" alt="food image3" title="yummy food image3">
+    <img src="img/pexels-fotios-photos-1279330.jpg" width="400" height="250" alt="food image4" title="yummy food image4">
+    <img src="img/pexels-valeriya-842571.jpg" width="400" height="250" alt="food image1" title="yummy food image5">
+    <img src="img/pexels-ash-craig-122861-376464.jpg" width="400" height="250" alt="food image2" title="yummy food image6">
+</html>
