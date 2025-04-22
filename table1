@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+    <table border="2px">
+        <tr>
+            <th>id</th>
+            <th>name</th>
+            <th>age</th>
+            <th>address</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>John</td>
+            <td>25</td>
+            <td>100</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Mary</td>
+            <td>25</td>
+            <td>100</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Jane</td>
+            <td>25</td>
+            <td>100</td>
+        </tr>
+
+
+    </table>
+
+</body>
+</html>
