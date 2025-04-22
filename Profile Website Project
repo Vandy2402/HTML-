@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Profile Website</title>
+    <style>
+        body
+        {
+            font-family: Calibri;
+            background-color: gray;
+        }
+        div
+        {
+            background-color: lightgray;
+            padding: 10px;
+            border-radius: 10px;
+            margin:10px;
+        }
+        table
+        {
+            width: 100%;
+            text-align: center;
+        }
+        th
+        {
+            background-color: gray;
+            color: white;
+        }
+        img
+        {
+            border-radius:50%;
+        }
+    </style>
+
+</head>
+<body>
+<!-- profile data -->
+        <div>
+            <h2>Profile Data</h2>
+            <table>
+                <tr>
+                    <td>
+                        <img src="IMG_20240529_170721_1.jpg" width="200" height="200"
+                    </td>
+                    <td>
+                        <h3>Valasa Vandana</h3>
+                        <h4>9687567887</h4>
+                        <h4>valasa@gmail.com</h4>
+                    </td>
+
+                </tr>
+            </table>
+        </div>
+        <div>
+            <h2>Bio</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi eligendi fugit magni obcaecati omnis, praesentium velit voluptas voluptates. Architecto at cumque ipsa labore odit officia praesentium quod sequi? Nam, quod?</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At consequatur dolor doloremque excepturi hic in inventore, itaque iusto labore minus necessitatibus, nesciunt nobis non perspiciatis placeat praesentium quos, ratione vero.</p>
+        </div>
+        <div>
+            <h2>Experience</h2>
+            <table>
+                <tr>
+                    <th>SNO</th>
+                    <th>Company</th>
+                    <th>Duration</th>
+                    <th>Designation</th>
+                    <th>Work&Roles</th>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>HCL</td>
+                    <td>September 2019 - 2023</td>
+                    <td>jr Developer</td>
+                    <td>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi cum eius expedita <br>labore, minima sunt voluptatibus. Eius, exercitationem, maxime. Aperiam, asperiores <br>ex itaque iure nostrum quas quo rem veritatis.</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>wipro</td>
+                    <td>September 2023 - 2024</td>
+                    <td>Lead Developer</td>
+                    <td>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi cum eius expedita <br>labore, minima sunt voluptatibus. Eius, exercitationem, maxime. Aperiam, asperiores <br>ex itaque iure nostrum quas quo rem veritatis.</td>
+                </tr>
+            </table>
+        </div>
+        <div>
+            <h2>Projects Information</h2>
+            <table>
+                <tr>
+                    <th>Project Name</th>
+                    <th>Technologies</th>
+                    <th>Roles & Responsibilties</th>
+                    <th>Duration</th>
+                </tr>
+                <tr>
+                    <td>Profile Website</td>
+                    <td>Html,Css</td>
+                    <td>Junior Developer</td>
+                    <td>2023-2024</td>
+                </tr>
+            </table>
+            <h4>Project Description</h4>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquid dolore, error explicabo hic id itaque iure, nam placeat quisquam reiciendis suscipit ut vel? Mollitia quas quo sequi vel veniam.</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci aliquid at consequatur cumque dicta dolor harum illo incidunt ipsum itaque libero maiores numquam placeat porro quidem, ratione reiciendis unde veniam.</p>
+        </div>
+        <div>
+            <h2>Hobbies & Interests</h2>
+            <ul>
+                <li>sports</li>
+                <li>movies</li>
+                <li>music</li>
+                <li>travelling</li>
+                <li>reading</li>
+            </ul>
+
+        </div>
+        <div>
+            <h2>Certification</h2>
+            <ol>
+                <li>Certification in Java</li>
+                <li>Certification in SQL</li>
+            </ol>
+        </div>
+
+</body>
+</html>
