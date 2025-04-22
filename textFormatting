@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        body
+        {
+            font-family:Calibri;
+        }
+        div
+        {
+            background-color:gray;
+            width:300px;
+            box-shadow:0 0 10px gray;
+            padding:10px;
+            margin:10px;
+            font-size: medium;
+            display:inline-block;
+        }
+    </style>
+</head>
+<body>
+        <h1>Bold Text</h1>
+        <div>
+            <p><b>Lorem</b>ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est ex facilis illo ipsa iste laboriosam maxime necessitatibus provident quasi, reiciendis ullam veniam. Deserunt exercitationem, optio! Ad consectetur ex inventore, obcaecati porro quisquam sequi similique sint voluptatibus. Autem laborum, vero.</p>
+        </div>
+        <h1>underline Text</h1>
+        <div>
+            <p><u>Lorem</u>ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est ex facilis illo ipsa iste laboriosam maxime necessitatibus provident quasi, reiciendis ullam veniam. Deserunt exercitationem, optio! Ad consectetur ex inventore, obcaecati porro quisquam sequi similique sint voluptatibus. Autem laborum, vero.</p>
+        </div>
+        <h1>mark Text</h1>
+        <div>
+            <p><mark>Lorem</mark>ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est ex facilis illo ipsa iste laboriosam maxime necessitatibus provident quasi, reiciendis ullam veniam. Deserunt exercitationem, optio! Ad consectetur ex inventore, obcaecati porro quisquam sequi similique sint voluptatibus. Autem laborum, vero.</p>
+        </div>
+        <h1>italic Text</h1>
+        <div>
+            <p><i>Lorem</i>ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est ex facilis illo ipsa iste laboriosam maxime necessitatibus provident quasi, reiciendis ullam veniam. Deserunt exercitationem, optio! Ad consectetur ex inventore, obcaecati porro quisquam sequi similique sint voluptatibus. Autem laborum, vero.</p>
+        </div>
+        <h1>superscript Text</h1>
+        <div>
+            <p><sup>Lorem</sup>ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est ex facilis illo ipsa iste laboriosam maxime necessitatibus provident quasi, reiciendis ullam veniam. Deserunt exercitationem, optio! Ad consectetur ex inventore, obcaecati porro quisquam sequi similique sint voluptatibus. Autem laborum, vero.</p>
+        </div>
+        <h1>subscript Text</h1>
+        <div>
+            <p><sub>Lorem</sub>ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est ex facilis illo ipsa iste laboriosam maxime necessitatibus provident quasi, reiciendis ullam veniam. Deserunt exercitationem, optio! Ad consectetur ex inventore, obcaecati porro quisquam sequi similique sint voluptatibus. Autem laborum, vero.</p>
+        </div>
+        <h1>delete Text</h1>
+        <div>
+            <p><del>Lorem</del>ipsum dolor sit amet, consectetur adipisicing elit. Dolorum est ex facilis illo ipsa iste laboriosam maxime necessitatibus provident quasi, reiciendis ullam veniam. Deserunt exercitationem, optio! Ad consectetur ex inventore, obcaecati porro quisquam sequi similique sint voluptatibus. Autem laborum, vero.</p>
+        </div>
+</body>
+</html>
