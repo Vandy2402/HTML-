@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+       body
+       {
+           font-family: Calibri;
+       }
+       div
+       {
+           width:300px;
+           display:inline-block;
+           padding:10px;
+           margin:10px;
+       }
+    </style>
+</head>
+<body>
+<div style="background-color:lightcyan">
+<h1>Bollywoood Movies</h1>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet blanditiis ea est explicabo iure nihil nostrum nulla quisquam sint voluptatibus.</p>
+</div>
+<div style="background-color:lightblue">
+      <h1>Tollywood Movies</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur eaque incidunt natus odit repellendus totam ut vero voluptate? Ipsam, reprehenderit.</p>
+</div>
+<div style="background-color:lightsalmon">
+    <h1>Hollywood Movies</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus quo quos suscipit tenetur unde. Ad corporis eligendi libero repudiandae veniam?</p>
+</div>
+</body>
+</html>
