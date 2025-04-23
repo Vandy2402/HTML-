@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+      <label for="" >Enter the name</label>
+      <input type="text" placeholder="enter the name">
+      <br>
+      <label for="">Enter the password</label>
+      <input type="password">
+      <br>
+      <label for="">Enter the email</label>
+      <input type="email">
+      <br>
+      <label for="">Enter the date</label>
+      <input type="datetime-local">
+      <br>
+      <label for="">Enter the color</label>
+      <input type="color">
+      <br>
+      <label for="">Enter the month</label>
+      <input type="month">
+      <br>
+      <label>number</label>
+      <input type="number">
+      <br>
+    <label>Technologies</label>
+    <input type="checkbox">HTML5
+    <input type="checkbox">CSS3
+    <input type="checkbox">JavaScript
+    <input type="checkbox">jQuery
+    <input type="checkbox">Bootstrap<br>
+    <label>Gender</label>
+    <input type="radio" name="gender">Male
+    <input type="radio" name="gender">Female
+    <br>
+    <label>Range</label>
+    <input type="range" min="100" max="2000">2000<br>
+      <label>Select States</label>
+      <select>
+        <option>Alabama</option>
+        <option>Alaska</option>
+        <option>Arizona</option>
+      </select>
+      <br>
+    <input type="submit">
+    <input type="reset">
+</body>
+</html>
