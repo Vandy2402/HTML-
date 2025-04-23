@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        section
+        {
+            font-family: Calibri;
+            background-color: lightgray;
+            padding:10px;
+            font-size: 20px;
+        }
+
+        article
+        {
+            background-color: gray;
+            color:whitesmoke;
+            margin:10px;
+            padding:10px;
+        }
+
+    </style>
+
+</head>
+<body>
+    <section>
+        <h2>Movies Information</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium blanditiis corporis ducimus ea eius est et labore nam, odio optio qui vitae voluptas! Deleniti dicta incidunt itaque, quod sint vitae?</p>
+        <article>
+            <h2>BollyWood Movies</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab consectetur dolorum fugiat sint voluptatum! A aliquam assumenda atque delectus deserunt distinctio dolorum earum eos expedita fugit id iure numquam provident repellat, sunt suscipit vitae. Harum nisi quas quis rerum vitae.</p>
+        </article>
+        <article>
+            <h2>TollyWood Movies</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus aperiam consectetur, consequatur doloribus esse explicabo minus natus nesciunt non numquam officia optio quod recusandae repudiandae sit ullam unde voluptates. Non.</p>
+
+        </article>
+        <article>
+            <h2>HollyWood Movies</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium, assumenda autem deleniti ducimus earum eius facere fuga hic in inventore iure nulla officiis perferendis, perspiciatis quidem repellendus totam ullam! Repellat?</p>
+        </article>
+    </section>
+
+</body>
+</html>
