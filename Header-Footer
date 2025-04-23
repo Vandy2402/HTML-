@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        body
+        {
+            font-family: Calibri;
+            margin:0px;
+        }
+        header
+        {
+            background-color: gray;
+            padding: 10px;
+            color: white;
+        }
+        section
+        {
+            padding:20px;
+            font-size: 20px;
+        }
+        footer
+        {
+            background-color: gray;
+        padding:10px;
+            color:white;
+        }
+
+
+
+    </style>
+</head>
+<body>
+        <header>
+                <h1>Movies Hub</h1>
+        </header>
+        <section>
+            <h2>Movies Section</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae dolore, error est non qui voluptatem? A, accusamus aliquam aliquid architecto consectetur consequatur deleniti dicta dolor eius error, eveniet, exercitationem illo ipsa laboriosam libero maxime natus necessitatibus nesciunt nihil non odio perspiciatis quam quas qui quod ratione reiciendis repudiandae velit vitae?</p>
+            <article>
+                <h3>Hollywood Movies</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda est eveniet possimus praesentium sapiente sit, voluptatibus. Adipisci, asperiores aut autem consequuntur dolorum expedita fugiat ipsam, iure laudantium minima nobis provident quaerat quas veritatis vitae, voluptas voluptatem? Alias aliquid beatae excepturi fugit iure laborum minima tempora. Accusamus aliquid aspernatur harum nam!</p>
+
+            </article>
+            <article>
+                <h3>Tollywood Movies</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda est eveniet possimus praesentium sapiente sit, voluptatibus. Adipisci, asperiores aut autem consequuntur dolorum expedita fugiat ipsam, iure laudantium minima nobis provident quaerat quas veritatis vitae, voluptas voluptatem? Alias aliquid beatae excepturi fugit iure laborum minima tempora. Accusamus aliquid aspernatur harum nam!</p>
+
+            </article>
+            <article>
+                <h3>Bollywood Movies</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda est eveniet possimus praesentium sapiente sit, voluptatibus. Adipisci, asperiores aut autem consequuntur dolorum expedita fugiat ipsam, iure laudantium minima nobis provident quaerat quas veritatis vitae, voluptas voluptatem? Alias aliquid beatae excepturi fugit iure laborum minima tempora. Accusamus aliquid aspernatur harum nam!</p>
+
+            </article>
+
+        </section>
+        <footer>
+            <h5>Copyright &copy; 2022</h5>
+            <span>All Rights Reserved</span>
+            <span>Developed by MAVEN</span>
+        </footer>
+
+
+</body>
+</html>
