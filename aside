@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+  <style>
+    body
+    {
+      margin:0;
+      font-family: Calibri;
+    }
+    aside
+    {
+      background-color: lightgray;
+      width:250px;
+      text-align:center;
+      height:100vh;
+    }
+    aside img {
+      border-radius: 50%;
+      padding-top: 20px;
+      display: block;
+      margin:auto;
+    }
+    aside a
+    {
+      display: block;
+      text-decoration: none;
+      color:whitesmoke;
+      font-size:20px;
+      padding:10px 25px;
+    }
+    aside a :hover
+    {
+      background-color:lightgray;
+      color:black;
+    }
+    </style>
+</head>
+<body>
+
+      <aside>
+
+        <img src="img/pexels-elletakesphotos-1660030.jpg" width="100" height="100">
+        <a href="#">Home</a>
+        <a href="#">About</a>
+        <a href="#">Education</a>
+        <a href="#">Experience</a>
+        <a href="#">Certifications</a>
+        <a href="#">Hobbies</a>
+        <a href="#">contact</a>
+      </aside>
+</body>
+</html>
