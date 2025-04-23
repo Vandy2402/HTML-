@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        div
+        {
+            background-color: lightgray;
+            width:400px;
+            padding:10px;
+            border-radius: 5px;
+        }
+        input,textarea,select
+        {
+            border:none;
+            font-size: 20px;
+            margin:5px;
+            border-radius: 5px;
+        }
+        .button
+        {
+            background-color: black;
+            color:white;
+        }
+
+    </style
+</head>
+<body>
+<div>
+        <form>
+            <fieldset>
+                <h2>Job Enrollment</h2>
+                <label>Username</label>
+                <br>
+                <input type="text" placeholder="Enter Username">
+                <br>
+                <label>Password</label>
+                <br>
+                <input type="password" placeholder="Enter Password">
+                <br>
+                <label>Email</label>
+                <br>
+                <input type="email" placeholder="Enter Email">
+                <br>
+                <label>About Yourself</label>
+                <br>
+                <textarea rows="4" cols="5"></textarea>
+                <br>
+                <label>Designation</label>
+                <br>
+                <select>
+                    <option value="">Software Engineer</option>
+                    <option value="">Web Developer</option>
+                    <option value="">Web Designer</option>
+                </select>
+                <br>
+                <label>DOB
+                    <br>
+                    <input type="date">
+                    <br>
+                    <label>Mobile Number
+                        <br>
+                        <input type="number">
+                        <br>
+                        <label>Programming Level
+                            <br>
+                            <input type="checkbox">beginner
+                            <input type="checkbox">intermediate
+                            <input type="checkbox">advanced
+                            <br>
+                            <label>Expertise in
+                                <br>
+                                <input type="radio" name="Expertise in">backend
+                                <input type="radio" name="Expertise in">frontend
+                                <input type="radio" name="Expertise in">Database
+                                <br>
+                                <label>Website URL
+                                    <br>
+                                    <input type="url">
+                                    <br>
+                                    <input class="button" type="submit" value="Enroll">
+                                    <input class="button" type="reset" value="Reset">
+
+
+            </fieldset>
+        </form>
+</div>
+</body>
+</html>
