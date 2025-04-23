@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+  <style>
+    body
+    {
+      font-family:Calibri;
+      background-color: gray;
+      text-align: center;
+    }
+    figure
+    {
+      border:solid 2px black;
+      width:300px;
+      padding:10px;
+      background-color: lightgray;
+      box-shadow: lightgoldenrodyellow;
+      display: inline-block;
+    }
+    figure img
+    {
+      width:300px;
+    }
+
+  </style>
+</head>
+<body>
+      <figure>
+        <img src="img/pexels-elletakesphotos-1660030.jpg" alt="food image">
+        <figcaption>food image 1</figcaption>
+      </figure>
+      <figure>
+        <img src="img/pexels-elletakesphotos-1660030.jpg" alt="food image">
+        <figcaption>food image 1</figcaption>
+      </figure>
+      <figure>
+        <img src="img/pexels-elletakesphotos-1660030.jpg" alt="food image">
+        <figcaption>food image 1</figcaption>
+      </figure>
+      <figure>
+        <img src="img/pexels-elletakesphotos-1660030.jpg" alt="food image">
+        <figcaption>food image 1</figcaption>
+      </figure>
+      <figure>
+        <img src="img/pexels-elletakesphotos-1660030.jpg" alt="food image">
+        <figcaption>food image 1</figcaption>
+      </figure>
+      <figure>
+        <img src="img/pexels-elletakesphotos-1660030.jpg" alt="food image">
+        <figcaption>food image 1</figcaption>
+      </figure>
+</body>
+</html>
